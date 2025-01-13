@@ -1,4 +1,4 @@
-![Welcome Banner](./github-header-banner.png)
+![Welcome Banner](https://github.com/user-attachments/assets/bf0ea824-a81e-45b5-8f73-68b9671b9c1d)
 <h2 align="center">Hi 👋, I'm Joty, a Computer Science & Engineering student with a passion for learning and exploring the world of technology. I'm currently honing my skills in programming and diving into fields like cybersecurity, software development and tech innovation. 🌱 I believe in continuous growth and enjoy tackling new challenges. 
 💡 Interests: Cybersecurity, problem-solving, and building meaningful projects. 📚 Always open to learning from others and collaborating on exciting projects!</h2>
 <h1 align="center">Learning, Growing and Building in Public</h1>
